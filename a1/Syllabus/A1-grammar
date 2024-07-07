@@ -1,25 +1,34 @@
 Grammar:
+
   Artikel:
     for countries
     M/F/N/PL
+
   Verbs:
     trennbaren verbs
     Model verbs
     relexiv verbs(mich, dich, sich...)
-  Adverbs:
+
+Adverbs:
     Temporal Adverbs
     Adverb words
+
   Prepositions:
     Prepositions with Verbs
     Wechsel präpositions
+
   Adjectives:
     Komparativ und Superlativ
     Declension of Adjectives(Welcher, jeder, mancher, solcher)
       direct/bestimmter Artikel : der , die, das
       indirect: ein,kein, eine,keine
+
+
   Pronouns:
     Relativ pronomen
     personal pronomen
+
+
   W - Frage:
     Wo - Components
 
